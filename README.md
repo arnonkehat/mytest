@@ -1,3 +1,1 @@
 # mytest
-
-sensitive data
